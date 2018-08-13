@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TwitterPost
 {
-    public partial class Form1 : Form
+    public partial class FormTwitterPost : Form
     {
-        public Form1()
+        public FormTwitterPost()
         {
             InitializeComponent();
         }
